@@ -1,4 +1,4 @@
-# Guidelines for contributions to this repo
+# Guidelines and instructions for contributions to this repo
 
 Please following these instructions or respect the guidelines for contributions to this repo:
 
