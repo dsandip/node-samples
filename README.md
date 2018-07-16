@@ -34,6 +34,9 @@ Read more at: [https://hasura.io](https://hasura.io) and the [docs](https://docs
 * **Add to Gitlab**: 
 [![GraphQL on GitLab](https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg)](http://www.youtube.com/watch?v=a2AhxKqd82Q "GraphQL on GitLab")
 
-* **Integrate with Auth0** [![Auth 0 integration here](Instant GraphQL on GitLab.png)](http://www.youtube.com/watch?v=a2AhxKqd82Q)
+* **Integrate with Auth0** 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=a2AhxKqd82Q" target="_blank"><img src="https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg" 
+alt="GraphQL on GitLab" width="240" height="180" border="10" /></a>
 
 * **Process 10 million rows and use PostGIS for geo-location**
