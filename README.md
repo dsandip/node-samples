@@ -2,9 +2,9 @@
 **Demos:**
 
 
-* [**Add to Gitlab**](https://www.youtube.com/watch?v=a2AhxKqd82Q) (*3:44 mins**)
-* [**Integrate with Auth0**](https://www.youtube.com/watch?v=15ITBYnccgc) (*4:00 mins**)
-* [**Process 10 million rows and use PostGIS for geo-location**](https://www.youtube.com/watch?v=tsY573yyGWA) (*3:06 mins**)
+* [**Add to Gitlab**](https://www.youtube.com/watch?v=a2AhxKqd82Q) (*3:44 mins*)
+* [**Integrate with Auth0**](https://www.youtube.com/watch?v=15ITBYnccgc) (*4:00 mins*)
+* [**Process 10 million rows and use PostGIS for geo-location**](https://www.youtube.com/watch?v=tsY573yyGWA) (*3:06 mins*)
 
 **Demos:**
 
