@@ -32,21 +32,16 @@ Read more at: [https://hasura.io](https://hasura.io) and the [docs](https://docs
 **Demos:**
 
 * **Add to Gitlab**: 
-[![GraphQL on GitLab](https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg)](http://www.youtube.com/watch?v=a2AhxKqd82Q "GraphQL on GitLab")
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=a2AhxKqd82Q" target="_blank"><img src="https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg" 
+alt="GraphQL on GitLab" width="240" height="180" /></a>
 
 * **Integrate with Auth0** 
 
-<table border="0">
-  <tr>
-    <td border="0">
-      <a href="http://www.youtube.com/watch?feature=player_embedded&v=a2AhxKqd82Q" target="_blank"><img src="https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg" 
-alt="GraphQL on GitLab" width="240" height="180" /></a>
-    </td>
-    <td border="0">
-      <a href="http://www.youtube.com/watch?feature=player_embedded&v=15ITBYnccgc" target="_blank"><img src="https://img.youtube.com/vi/15ITBYnccgc/hqdefault.jpg" 
-alt="GraphQL on GitLab" width="240" height="180" /></a>
-    </td>
-  </tr>
-</table>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=15ITBYnccgc" target="_blank"><img src="https://img.youtube.com/vi/15ITBYnccgc/hqdefault.jpg" 
+alt="Integrate with Auth0" width="240" height="180" /></a>
 
 * **Process 10 million rows and use PostGIS for geo-location**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tsY573yyGWA" target="_blank"><img src="https://img.youtube.com/vi/tsY573yyGWA/hqdefault.jpg" 
+alt="PostGIS with GraphQL" width="240" height="180" /></a>
