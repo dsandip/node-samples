@@ -36,13 +36,13 @@ Read more at: [https://hasura.io](https://hasura.io) and the [docs](https://docs
 
 * **Integrate with Auth0** 
 
-<table>
+<table border="0">
   <tr>
-    <td>
+    <td border="0">
       <a href="http://www.youtube.com/watch?feature=player_embedded&v=a2AhxKqd82Q" target="_blank"><img src="https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg" 
 alt="GraphQL on GitLab" width="240" height="180" /></a>
     </td>
-    <td>
+    <td border="0">
       <a href="http://www.youtube.com/watch?feature=player_embedded&v=15ITBYnccgc" target="_blank"><img src="https://img.youtube.com/vi/15ITBYnccgc/hqdefault.jpg" 
 alt="GraphQL on GitLab" width="240" height="180" /></a>
     </td>
