@@ -31,8 +31,8 @@ Read more at: [https://hasura.io](https://hasura.io) and the [docs](https://docs
 
 **Demos:**
 
-* **Add to Gitlab**: <a href="http://www.youtube.com/watch?feature=player_embedded&v=a2AhxKqd82Q" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+* **Add to Gitlab**: 
+[![GraphQL on GitLab](https://img.youtube.com/vi/a2AhxKqd82Q/hqdefault.jpg)](http://www.youtube.com/watch?v=a2AhxKqd82Q "GraphQL on GitLab")
 
 * **Integrate with Auth0** [![Auth 0 integration here](Instant GraphQL on GitLab.png)](http://www.youtube.com/watch?v=a2AhxKqd82Q)
 
